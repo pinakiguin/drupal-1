@@ -25,3 +25,12 @@
 [submodule "sites/all/modules/wysiwyg"]
 	path = sites/all/modules/wysiwyg
 	url = http://git.drupal.org/project/wysiwyg.git
+[submodule "sites/all/modules/workbench"]
+	path = sites/all/modules/workbench
+	url = http://git.drupal.org/project/workbench.git
+[submodule "sites/all/modules/workbench_access"]
+	path = sites/all/modules/workbench_access
+	url = http://git.drupal.org/project/workbench_access.git
+[submodule "sites/all/modules/workbench_moderation"]
+	path = sites/all/modules/workbench_moderation
+	url = http://git.drupal.org/project/workbench_moderation.git
