@@ -1,0 +1,27 @@
+[submodule "sites/all/modules/views"]
+	path = sites/all/modules/views
+	url = http://git.drupal.org/project/views.git
+[submodule "sites/all/modules/admin_menu"]
+	path = sites/all/modules/admin_menu
+	url = http://git.drupal.org/project/admin_menu.git
+[submodule "sites/all/modules/ctools"]
+	path = sites/all/modules/ctools
+	url = http://git.drupal.org/project/ctools.git
+[submodule "sites/all/modules/date"]
+	path = sites/all/modules/date
+	url = http://git.drupal.org/project/date.git
+[submodule "sites/all/modules/module_filter"]
+	path = sites/all/modules/module_filter
+	url = http://git.drupal.org/project/module_filter.git
+[submodule "sites/all/modules/jquery_update"]
+	path = sites/all/modules/jquery_update
+	url = http://git.drupal.org/project/jquery_update.git
+[submodule "sites/all/modules/views_pdf"]
+	path = sites/all/modules/views_pdf
+	url = http://git.drupal.org/project/views_pdf.git
+[submodule "sites/all/modules/print"]
+	path = sites/all/modules/print
+	url = http://git.drupal.org/project/print.git
+[submodule "sites/all/modules/wysiwyg"]
+	path = sites/all/modules/wysiwyg
+	url = http://git.drupal.org/project/wysiwyg.git
